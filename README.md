@@ -1,3 +1,7 @@
+# Содержание
+
+1. Таблица, по клику на каждую ячейку таблицы, появляеся инпут для редактирования текста соответсвующей ячейки таблицы, onBlur сохраняет изменения из инпута в ячейку
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
